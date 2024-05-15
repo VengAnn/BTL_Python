@@ -1,5 +1,6 @@
 Make by: KUN VENG ANN - 56KMT - CPC205013 - TNUT
-#THOI DÕI TOP 10 MOVIE(BỘ PHIM) NỔI TIẾNG
+
+THEO DÕI TOP 10 MOVIE(BỘ PHIM) NỔI TIẾNG
 1. Cơ sở dữ liệu:
 - Bảng:
     movies: Lưu thông tin về bộ phim, bao gồm movie_id (PK), title,vote_average (bỏ phiếu trung bình),image.
