@@ -14,12 +14,6 @@ Dữ liệu bao gồm thông tin về bộ phim và điểm đánh giá từ ng�
 4. Node-RED:
 Xây dựng một chu trình trong Node-RED để tự động gọi API Python để lấy dữ liệu. Sau đó, xử lý dữ liệu và ghi vào cơ sở dữ liệu.
 5. Web:
-+ Hiển thị danh sách các bộ phim và điểm đánh giá của chúng:
-Tạo một trang web với danh sách các bộ phim.
-Mỗi bộ phim sẽ hiển thị tên và điểm đánh giá của nó.
-Có thể sử dụng HTML và CSS để tạo giao diện đơn giản và hấp dẫn.
-+ Biểu đồ cột cho các bộ phim nổi tiếng:
-Tạo một biểu đồ cột để hiển thị điểm đánh giá của các bộ phim.
-Các cột sẽ biểu diễn điểm đánh giá của từng bộ phim.
+Tạo một biểu đồ cột để hiển thị dữ liệ đã lưu
 Sử dụng JavaScript và một thư viện biểu đồ như Chart.js để tạo và hiển thị biểu đồ.
 
