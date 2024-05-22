@@ -12,7 +12,7 @@ THEO DÕI 10 BỘ PHIM NỔI TIẾNG NHẤT
 Có thể sử dụng Web Scraping hoặc lấy dữ liệu qua API của các trang web chuyên về phim.
 Dữ liệu bao gồm thông tin về bộ phim và điểm đánh giá từ người dùng.
 4. Node-RED:
-Xây dựng một chu trình trong Node-RED để tự động gọi API Python để lấy dữ liệu. Sau đó, xử lý dữ liệu và ghi vào cơ sở dữ liệu.
+Xây dựng một chu trình trong Node-RED để tự động gọi API Python liên tục (interval every second) để lấy dữ liệu. Sau đó, xử lý dữ liệu và ghi vào cơ sở dữ liệu.
 5. Web:
 Tạo một biểu đồ cột để hiển thị dữ liệu đã lưu 
 Sử dụng JavaScript và một thư viện biểu đồ như Chart.js để tạo và hiển thị biểu đồ.
